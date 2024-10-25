@@ -1,0 +1,6 @@
+.DS_Store
+*.DS_Store
+*.log
+.bash_history
+.bash_sessions/
+.vscode/
